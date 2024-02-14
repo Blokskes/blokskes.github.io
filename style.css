@@ -1,0 +1,33 @@
+.icon {
+    width: 100px;
+    margin-right: 15px;
+}
+.button {
+    width: 800px;
+    background-color: #b5ded3;
+    border-radius: 15px;
+    margin: 2.5px;
+}
+.button-content {
+    display: flex;
+    align-items: center;
+    font-size: 40px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.title {
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #66cdb2;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 100px;
+    margin-bottom: 7.5px;
+}
+.page {
+    display: flex;
+    justify-content: center;
+}

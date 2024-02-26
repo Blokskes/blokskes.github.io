@@ -7,6 +7,7 @@
     background-color: #b5ded3;
     border-radius: 15px;
     margin: 2.5px;
+    height: 120.2px;
 }
 .button-content {
     display: flex;
@@ -18,8 +19,6 @@
     margin-top: 5px;
 }
 .title {
-    font-size: 60px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #66cdb2;
     display: flex;
     justify-content: center;
@@ -30,4 +29,48 @@
 .page {
     display: flex;
     justify-content: center;
+}
+.jessa {
+    height: 60px;
+}
+.top {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.back{
+    width: 130px;
+    background-color: #77817e28;
+    border-radius: 15px;
+    margin: 2.5px;
+    height: 50px;
+}
+.infobutton{
+    display: flex;
+    align-items: center;
+    font-size: 40px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding-left: 15px;
+    width: 800px;
+    border-radius: 15px;
+    margin: 2.5px;
+    height: 120.2px;
+}
+.blue{
+    background-color: #46A6D6;
+}
+.red{
+    background-color: #F36657;
+}
+.pink{
+    background-color: #FF66FF;
+}
+.blue2{
+    background-color: #6C8BC7;
+}
+.backarrow{
+   width: 35px;
 }

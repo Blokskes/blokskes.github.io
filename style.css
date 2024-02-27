@@ -60,17 +60,20 @@
     margin: 2.5px;
     height: 120.2px;
 }
-.blue{
-    background-color: #46A6D6;
+.brown{
+    background-color: #BF9129;
+}
+.purple{
+    background-color: #84549D;
 }
 .red{
-    background-color: #F36657;
+    background-color: #E52927;
 }
-.pink{
-    background-color: #FF66FF;
+.blue{
+    background-color: #03A5E8;
 }
-.blue2{
-    background-color: #6C8BC7;
+.green{
+    background-color: #A5C746;
 }
 .backarrow{
    width: 35px;
